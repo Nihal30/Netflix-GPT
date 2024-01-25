@@ -27,7 +27,7 @@
 - Update Store with movie data
 - featch Data for trailer Video
 - Embedded the Youtube video and make it auto play
-- 
+- Build Second Container
 - 
 
 
