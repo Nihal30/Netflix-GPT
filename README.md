@@ -28,7 +28,13 @@
 - featch Data for trailer Video
 - Embedded the Youtube video and make it auto play
 - Build Second Container
-- 
+- Build movie List
+- Tmdb Image cdn
+- usePopularMovie Api 
+- Gpt Search Page
+- Gpt Search bar
+- Muli-language feature in our app
+
 
 
  

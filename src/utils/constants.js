@@ -10,4 +10,22 @@ export const API_OPTIONS = {
   },
 };
 
-export const IMG_CDN_URL ="https://image.tmdb.org/t/p/w500";
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500";
+
+export const BG_IMG =
+  "https://wpengine-myanmore.s3.amazonaws.com/uploads/2019/05/netflix-background-9.jpg";
+
+export const Lang = [
+  {
+    type: "en",
+    name: "English",
+  },
+  {
+    type: "hn",
+    name: "Hindi",
+  },
+  {
+    type: "jn",
+    name: "Japanese",
+  },
+];

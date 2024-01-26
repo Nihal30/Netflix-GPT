@@ -10,6 +10,7 @@ import { auth } from "../utils/firebase";
 import { useNavigate } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { addUser } from "../redux/slice/userSlice";
+import { BG_IMG } from "../utils/constants";
 
 const Login = () => {
   const navigate = useNavigate();
@@ -105,7 +106,7 @@ const Login = () => {
       <Header />
       <div className="absolute">
         <img
-          src="https://wpengine-myanmore.s3.amazonaws.com/uploads/2019/05/netflix-background-9.jpg"
+          src={BG_IMG}
           alt="LoginBg"
         />
       </div>
